@@ -7,8 +7,6 @@
 </br>
 </br>
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
   
   <img align="left" alt="GIF" src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif" width="390" height="320" />
   
