@@ -12,6 +12,8 @@
   <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="390" height="320" />
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</br>
+</br>
 
 ##
   <!--social media icon-->
