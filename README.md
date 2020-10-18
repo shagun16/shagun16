@@ -1,10 +1,10 @@
-### Hey i am shagun 👋
+### Hey i am shagun Verma👋
 
 <!--
 **shagun16/shagun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+##
 - 🔭 I’m currently working on ... Web Developing
 - 🌱 I’m currently learning ... React Native
 - 📫 How to reach me: ... https://instagram/not.shagun_
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shagun16)
 [![Linkedin Badge](https://img.shields.io/badge/-Shagun%20Verma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shagun-verma-920469197/)](https://www.linkedin.com/in/shagun-verma-920469197/) 
 [![Twitter Badge](http://img.shields.io/badge/-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shagunyuhu)](https://twitter.com/shagunyuhu)
-[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/not.shagun_)](https://www.instagram.com/not.shagun_) 
+[![Instagram Badge](https://img.shields.io/badge/-Shagun-blue?style=social&logo=Instagram&link=https://www.instagram.com/not.shagun_)](https://www.instagram.com/not.shagun_) 
 
 </div>  
 
@@ -70,7 +70,9 @@ Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hack
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. 
 
 
-
+</br>
+</br>
+<
 <!--footer-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
