@@ -9,7 +9,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
   
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="390" height="320" />
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="390" height="320" />
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </br>
