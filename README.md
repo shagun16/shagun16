@@ -3,19 +3,13 @@
 <!--
 **shagun16/shagun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-##
-- 🔭 I’m currently working on ... Web Developing
-- 🌱 I’m currently learning ... React Native
-- 📫 How to reach me: ... https://instagram/not.shagun_
-- ⚡ Fun fact: ... I m a Zombie!!
--->
-##
 <!--Header-->
 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
+  
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="390" height="320" />
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -44,19 +38,19 @@ Here are some ideas to get you started:
 
 ## About Me ✍
  
- I m <b> Shagun Verma</b>, a pursuing <b>Bachelors Of Computers Applications</b> And Works For [<b>The Ethena Technolog</b>]As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
+ I m <b> Shagun Verma</b>, a pursuing <b>Bachelors Of Computers Applications</b> And Works For [<b>The Ethena Technology</b>].As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 
 
 </div>
-
+</br>
+</br>
 <!--technical skill-->
 
 ## Technical Skills 🛠 
 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)</br>
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)</br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</br>
@@ -68,9 +62,11 @@ Here are some ideas to get you started:
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. 
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I dance when i feel stressed . 
 
 
+</br>
+</br>
 </br>
 </br>
 <
@@ -79,7 +75,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919520374370) </b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [<b>reach out</b>](https://wa.me/+919520374370) </b> 😊 💜</em>
 
 
 <div align="center">
@@ -99,8 +95,6 @@ but also gives you various benefits which can improve the quality of your life. 
   
 
 <br/>  
-   
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
