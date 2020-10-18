@@ -57,6 +57,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</br>
 ![ReactJs](https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)</br>
 
+</br>
+</br>
+
 ## My Hobbies ✍
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
