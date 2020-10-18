@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</br>
-![ReactJs](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</br>
+![ReactJs](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)</br>
 
 ## My Hobbies ✍
 
