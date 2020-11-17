@@ -19,7 +19,7 @@
 <div align="center">
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shagun16)
+[![PROGRAMMER Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shagun16)
 [![Linkedin Badge](https://img.shields.io/badge/-Shagun%20Verma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shagun-verma-920469197/)](https://www.linkedin.com/in/shagun-verma-920469197/) 
 [![Twitter Badge](http://img.shields.io/badge/-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shagunyuhu)](https://twitter.com/shagunyuhu)
 [![Instagram Badge](https://img.shields.io/badge/-Shagun-blue?style=social&logo=Instagram&link=https://www.instagram.com/not.shagun_)](https://www.instagram.com/not.shagun_) 
