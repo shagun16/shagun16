@@ -39,7 +39,7 @@
 
 ## About Me ✍
  
- I m <b> Shagun Verma</b>, a pursuing <b>Bachelors Of Computers Applications in Graphic Era Deemed To Be University</b> And Works For <b>The Ethena Technology</b>.As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
+ I am <b> Shagun Verma</b>, a pursuing <b>Bachelors Of Computers Applications in Graphic Era Deemed To Be University</b> And Works For <b>The Ethena Technology</b>.As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 
 
 </div>
